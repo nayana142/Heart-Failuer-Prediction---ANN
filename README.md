@@ -1,4 +1,5 @@
-# Heart Failure Prediction using ANN with SMOTE and Early Stopping
+# Heart Failure Prediction using ANN
+![image](https://github.com/user-attachments/assets/51393a28-afe0-4319-ad4f-c60ff3c12cd6)
 
 ## **Project Overview**
 This project focuses on predicting heart failure using a deep learning model (Artificial Neural Network - ANN). The dataset consists of various patient health parameters, and the model is trained to classify whether a patient is at risk of heart failure (DEATH_EVENT). To handle class imbalance, **SMOTE (Synthetic Minority Over-sampling Technique)** is used. Additionally, **Early Stopping** is implemented to prevent overfitting and optimize model performance.
